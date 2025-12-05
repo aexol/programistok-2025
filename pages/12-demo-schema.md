@@ -1,47 +1,6 @@
-# Demo: Schema
+---
+layout: iframe
 
-```graphql {all|1-5|7-14|16-19|21-27|all}
-type Client {
-  id: ID!
-  name: String!
-  industry: String!
-}
-
-type Proposal {
-  id: ID!
-  client: Client!
-  scope: String!
-  budget: String!
-  generatedContent: String!
-  createdAt: DateTime!
-}
-
-type Query {
-  proposals: [Proposal!]!
-  proposal(id: ID!): Proposal
-}
-
-type Mutation {
-  generateProposal(
-    clientName: String!
-    industry: String!
-    scope: String!
-    budget: String!
-  ): Proposal!
-}
-```
-
-<v-click>
-
-<div class="text-center mt-4 text-xl">
-
-**4 typy, 2 query, 1 mutacja. To jest cały nasz "startup" - serio.**
-
-</div>
-
-</v-click>
-
-<!--
-No i widzicie - to jest całe API. 4 typy, parę pól, i mamy kompletny system.
-Nie trzeba dokumentacji, nie trzeba Postmana - schema mówi wszystko.
--->
+# the web page source
+url: https://spectral.aexol.work/studio?pako=eJx1VMuO2zAMvPsrBPTa_QEfCmzbcxFsmtNiEcgW1yYqS6pExRsU-ffSlvyKN76RHIozI1pfxBFNo-EpBvCiktR6azvhwdiLJLRGyBAwkDRUFHR1IL5nzKG1ZMW_QvCHqhSBPJ80htHrTdyjorYUJnYV-DHTAjYtbVLRaSsVqGdOK0lA2EFxy0MP3naOfgJJ1CEPJfigzZhAVw2_ZROm7OvbmK-iaoB-WYIZPp37Mut8gb8RAn0uyA1ay630VBh5lVt-Y6X2wCIeqlGxpmNsGh45mJymGtnBZm7NnY311y2Z1H1ambyX88OaGtwDOT5pLffy8wC4IPSnu1sMM91Q7iVkrx_I9laDOFptT7xmz85lXg58h7xf7EDmNF3uctbXOeZQjcHtvrlOatfNKzDP763_865tn7d9YLFon0wySCh1vtNziFWHxFqKvFzMZVcTT9_4pwlwxk42cB6GXlfw-9IAz1x32E1-ACrQeAEPagVaciyKjzW0usMDOi4bXqG907U0guHgJ1pipCX6Fsxe8dQRQPq6Fe_4QdFDSOhP9Q7otJizkoTeymXWFwxI1q94sTRP6ydnucWxdM67wXYvlak5PRvLy-Xmf3ONUhBqj9VgYEC2L70VO9iw9rNNauI-w27zQv0HIma3YQ
+---

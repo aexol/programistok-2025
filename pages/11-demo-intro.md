@@ -5,6 +5,6 @@ class: text-center
 
 # Dobra, demo time
 
-## AI Proposal Generator
+## Makieta projektu 
 
-### "Startup w 10 minut"
+### "Czasem zanim zaczniemy vibe/spec coding z AI Warto poeksperymentować co chcemy"

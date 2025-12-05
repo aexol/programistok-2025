@@ -1,20 +1,30 @@
 ---
 layout: center
+class: text-center
 ---
 
-# Demo: Live coding
+<a target="_blank" href="https://kibel.vercel.app">
+Mock 
+</a>
 
-<div class="text-center">
+<v-click>
 
-## Kroki:
+<div class="mt-8 text-2xl">
 
-<v-clicks>
-
-1. **Axolotl** - generujemy serwer
-2. **Resolver** - podpinamy AI (jakieś 20 linii kodu)
-3. **Zeus** - generujemy typowanego klienta
-4. **Magia** - testujemy czy działa
-
-</v-clicks>
+**Dobra, odpalamy...**
 
 </div>
+
+</v-click>
+
+<!--
+No i to by było na tyle - właśnie zbudowaliśmy taki mały startup.
+Teraz mógłbym napisać posta na LinkedIn że "disrupted proposal industry" i szukać inwestorów.
+No ale nie zrobię tego - mam trochę godności.
+-->
+---
+layout: iframe
+
+# the web page source
+url: https://kibel.vercel.app
+---

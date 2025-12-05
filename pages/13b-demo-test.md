@@ -1,33 +1,20 @@
 ---
 layout: center
-class: text-center
 ---
 
-# Test: generujemy ofertę
+# Co potem?
 
-<div class="mt-8">
+<div class="text-center">
 
-| Pole | Wartość |
-|------|---------|
-| **Klient** | Firma Krzak Sp. z o.o. |
-| **Branża** | E-commerce |
-| **Zakres** | Sklep internetowy z AI rekomendacjami |
-| **Budżet** | 100-150k PLN |
+## Kroki:
 
-</div>
+<v-clicks>
 
-<v-click>
+1. **Axolotl** - generujemy serwer
+2. **Resolver** - podpinamy AI (jakieś 20 linii kodu)
+3. **Zeus+Frontend** - generujemy typowanego klienta i robimy front
+4. **Magia** - testujemy czy działa
 
-<div class="mt-8 text-2xl">
-
-**Dobra, odpalamy...**
+</v-clicks>
 
 </div>
-
-</v-click>
-
-<!--
-No i to by było na tyle - właśnie zbudowaliśmy taki mały startup.
-Teraz mógłbym napisać posta na LinkedIn że "disrupted proposal industry" i szukać inwestorów.
-No ale nie zrobię tego - mam trochę godności.
--->

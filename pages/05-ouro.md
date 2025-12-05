@@ -4,8 +4,6 @@ layout: center
 
 # Ouro
 
-## Takie AI-owe CLI
-
 <div class="grid grid-cols-2 gap-8 mt-8">
 <div>
 
@@ -14,7 +12,6 @@ layout: center
 - nagrywa rózne audio i robi transkrypcje
 - robi gather - czyli na starym projekcie zbiera wszystkie technologie dokumentacje do nich i summary z tego robi
 - robi ontologie, graf projektu jaka technologia z jaką się komunikuje
-- ma komendę valuation do robienia wycen w excelu na podstawie dokumentów specyfikacji
 - video-to-md zamienia videea ze spotkan z klientami w specki
 - acknowledge , "Rób zawsze graphql,resolver,client,e2e,frotnend client, gdy ktoś poprosi o feature" -> Ouro mieli -> wrzuca do ontologii odpowiednie informacje
 - refine , taka komenda co leci w nieskończoność i optymalizuje projekt
