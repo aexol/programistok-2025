@@ -56,6 +56,10 @@ src: ./pages/05-ouro.md
 ---
 
 ---
+src: ./pages/06-a.md
+---
+
+---
 src: ./pages/06-axolotl-intro.md
 ---
 
@@ -117,8 +121,4 @@ src: ./pages/14b-gips.md
 
 ---
 src: ./pages/15-kontakt.md
----
-
----
-src: ./pages/15b-qa.md
 ---
