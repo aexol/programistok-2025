@@ -1,0 +1,21 @@
+{
+  "name": "slides-prezentacja",
+  "version": "1.0.0",
+  "description": "Prezentacja: Od backlogu do produkcji",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export",
+    "export-pdf": "slidev export --format pdf"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^1.30.0",
+    "@modelcontextprotocol/sdk": "^1.23.0",
+    "@slidev/cli": "^52.10.1",
+    "@slidev/theme-default": "^0.25.0"
+  }
+}
