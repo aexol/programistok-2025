@@ -64,6 +64,10 @@ src: ./pages/06-axolotl-intro.md
 ---
 
 ---
+src: ./pages/06a-axolotl-page.md
+---
+
+---
 src: ./pages/06b-axolotl-problem.md
 ---
 
@@ -73,6 +77,10 @@ src: ./pages/07-axolotl-code.md
 
 ---
 src: ./pages/08-zeus-intro.md
+---
+
+---
+src: ./pages/08a-zeus-page.md
 ---
 
 ---
